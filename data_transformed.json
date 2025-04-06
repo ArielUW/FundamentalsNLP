@@ -1,0 +1,347 @@
+[
+    [
+        "Lopez, Adam. \"Statistical machine translation.\" ACM Computing Surveys (CSUR) 40.3 (2008): 1-49.",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "AUTHOR"
+                ],
+                [
+                    48,
+                    69,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    83,
+                    87,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Wang, Haifeng, et al. \"Progress in machine translation.\" Engineering 18 (2022): 143-153.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "AUTHOR"
+                ],
+                [
+                    57,
+                    68,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    73,
+                    77,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stahlberg, Felix. \"Neural machine translation: A review.\" Journal of Artificial Intelligence Research 69 (2020): 343-418.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "AUTHOR"
+                ],
+                [
+                    58,
+                    101,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    106,
+                    110,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Brown, Peter F., et al. \"A statistical approach to machine translation.\" Computational linguistics 16.2 (1990): 79-85.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "AUTHOR"
+                ],
+                [
+                    73,
+                    98,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    105,
+                    109,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kenny, Dorothy. \"Human and machine translation.\" Machine translation for everyone: Empowering users in the age of artificial intelligence 18 (2022): 23.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "AUTHOR"
+                ],
+                [
+                    49,
+                    137,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    142,
+                    146,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Moorkens, Joss. \"Ethics and machine translation.\" Machine translation for everyone: Empowering users in the age of artificial intelligence 18 (2022): 121.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "AUTHOR"
+                ],
+                [
+                    50,
+                    138,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    143,
+                    147,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ji, Baijun, et al. \"Zero-shot Prompting for LLM-based Machine Translation Using In-domain Target Sentences.\" IEEE/ACM Transactions on Audio, Speech, and Language Processing (2024).",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "AUTHOR"
+                ],
+                [
+                    109,
+                    172,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    174,
+                    178,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Miah, Md Saef Ullah, et al. \"A multimodal approach to cross-lingual sentiment analysis with ensemble of transformer and LLM.\" Scientific Reports 14.1 (2024): 9603.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "AUTHOR"
+                ],
+                [
+                    126,
+                    144,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    151,
+                    155,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heakl, Ahmed, et al. \"Arzen-llm: Code-switched egyptian arabic-english translation and speech recognition using llms.\" Procedia Computer Science 244 (2024): 113-120.",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "AUTHOR"
+                ],
+                [
+                    119,
+                    144,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    150,
+                    154,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Lankford, Séamus, Haithem Afli, and Andy Way. \"adaptmllm: Fine-tuning multilingual language models on low-resource languages with integrated llm playgrounds.\" Information 14.12 (2023): 638.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "AUTHOR"
+                ],
+                [
+                    18,
+                    30,
+                    "AUTHOR"
+                ],
+                [
+                    36,
+                    45,
+                    "AUTHOR"
+                ],
+                [
+                    159,
+                    170,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    178,
+                    182,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "He, Zhiwei, et al. \"Exploring human-like translation strategy with large language models.\" Transactions of the Association for Computational Linguistics 12 (2024): 229-246.",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "AUTHOR"
+                ],
+                [
+                    91,
+                    152,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    157,
+                    161,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ju, Fang, and Weihui Wang. \"Non‐Autoregressive Translation Algorithm Based on LLM Knowledge Distillation in English Corpus.\" Engineering Reports 7.1 (2025): e13077.",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "AUTHOR"
+                ],
+                [
+                    14,
+                    26,
+                    "AUTHOR"
+                ],
+                [
+                    125,
+                    144,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    150,
+                    154,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mohsen, Mohammed. \"Artificial intelligence in academic translation: A comparative study of large language models and google translate.\" PSYCHOLINGUISTICS 35.2 (2024): 134-156.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "AUTHOR"
+                ],
+                [
+                    136,
+                    153,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    160,
+                    164,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pang, Jianhui, et al. \"Salute the classic: Revisiting challenges of machine translation in the age of large language models.\" Transactions of the Association for Computational Linguistics 13 (2025): 73-95.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "AUTHOR"
+                ],
+                [
+                    126,
+                    187,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    192,
+                    196,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Moghe, Nikita, et al. \"Machine translation meta evaluation through translation accuracy challenge sets.\" Computational Linguistics 51.1 (2025): 73-137.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "AUTHOR"
+                ],
+                [
+                    105,
+                    130,
+                    " JOURNAL TITLE"
+                ],
+                [
+                    137,
+                    141,
+                    "PUBLICATION DATE"
+                ]
+            ]
+        }
+    ]
+]
